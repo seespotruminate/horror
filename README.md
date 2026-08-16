@@ -1,3 +1,8 @@
+# Qwen3.8 (unsloth/Qwen3.8-27B-NVFP4) test
+
+A test ran using the nvfp4 quant from unsloth and via vllm. Other this this line and the prior line, I didn't write any of this shit. This is just an example of some output. 
+
+
 # VANE HOUSE
 
 A single-file horror metroidvania / investigative game. Open `vane-house.html` in any modern browser. No build step, no dependencies — canvas + procedural WebAudio.
